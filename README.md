@@ -1,3 +1,3 @@
 # money-
 
-Data Viz Story on Notes in India
+Data VizStory on Notes in India
